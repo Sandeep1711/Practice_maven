@@ -1,11 +1,11 @@
-package com.crm.qa.pages;
+package com.qa.testcases.pages;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.crm.qa.base.TestBase;
+import  com.qa.testcases.base.TestBase;
 
 public class DashboardPage extends TestBase{
 	
