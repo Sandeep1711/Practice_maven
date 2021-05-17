@@ -6,7 +6,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.qa.testcases.TestBase;
+import com.qa.testcases.base.TestBase;
 
 import io.qameta.allure.Step;
 
