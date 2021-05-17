@@ -1,4 +1,4 @@
-package com.crm.qa.base;
+package com.qa.testcases.base;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
