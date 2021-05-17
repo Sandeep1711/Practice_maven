@@ -97,7 +97,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>C:\Eclipse_workplace\Practice_maven\testNg.xml</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 						
 					</suiteXmlFiles>
 				</configuration>
